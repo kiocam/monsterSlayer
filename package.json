@@ -1,0 +1,23 @@
+{
+  "name": "monsterslayer",
+  "version": "1.0.0",
+  "description": "Vue.js web app game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiocam/monsterSlayer.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "monsterSlayer"
+  ],
+  "author": "Jason Cameron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiocam/monsterSlayer/issues"
+  },
+  "homepage": "https://github.com/kiocam/monsterSlayer#readme"
+}
